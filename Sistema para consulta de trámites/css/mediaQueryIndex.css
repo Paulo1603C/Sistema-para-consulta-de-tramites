@@ -1,0 +1,17 @@
+
+@media screen and  (max-width:576px) {
+    header{
+        position: absolute;
+        top:5%;
+        left:50%;
+        transform: translate(-50%, -50%);
+    }
+    .tituloPrincipal{
+        font-size: 18px;
+    }
+
+    .texto{
+      font-size: 8px;
+    }
+
+}
