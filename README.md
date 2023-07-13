@@ -1,6 +1,6 @@
 # Sistema para consulta de tramites
 
-Sistema que permite a los usaurios consultar requemientos necesarios para un tramite, para este caso dentro del Municipio de Pelileo.
+Sistema que permite a los usuarios consultar requerimientos necesarios para un tramite, para este caso dentro del Municipio de Pelileo.
 
 ![Captura de pantalla del portafolio web](TM1.jpg)
 ![Captura de pantalla del portafolio web](TM2.jpg)
